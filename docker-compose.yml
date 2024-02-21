@@ -1,0 +1,5 @@
+version: '3'
+services:
+  honeygain:
+    image: honeygain/honeygain
+    command: -tou-accept -email pusdakom@gmail.com -pass Raniahalma26 -device x96mini
