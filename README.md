@@ -1,1 +1,1 @@
-ganti nama
+Jangan lupa ganti nama
